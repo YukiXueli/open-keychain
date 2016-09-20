@@ -48,5 +48,5 @@ project(':extern:bouncycastle') {
 // See http://tools.android.com/tech-docs/new-build-system/tips#TOC-Controlling-Android-properties-of-all-your-modules-from-the-main-project.
 ext {
     compileSdkVersion = 24
-    buildToolsVersion = '24.0.1'
+    buildToolsVersion = '24.0.2'
 }
